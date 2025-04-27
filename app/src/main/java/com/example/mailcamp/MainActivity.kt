@@ -1182,7 +1182,7 @@ class MainViewModel : ViewModel() {
         val db = FirebaseFirestore.getInstance()
         viewModelScope.launch {
             // Adding delay to simulate loading time
-            delay(2000) // 2 seconds delay
+            delay(1000) // 2 seconds delay
 
             db.collection("posts")
                 .get()
