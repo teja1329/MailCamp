@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1054311091666",
+    "project_id": "mailcamp-ba8ef",
+    "storage_bucket": "mailcamp-ba8ef.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054311091666:android:cd3814e11fb918d1c04c0b",
+        "android_client_info": {
+          "package_name": "com.example.mailcamp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054311091666-j3dbh0f7er9c4ibji57somapo8pskg5u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mailcamp",
+            "certificate_hash": "0d9ca346b18f79f66b9dd95acec0db3e37416a15"
+          }
+        },
+        {
+          "client_id": "1054311091666-jktkdkmk7imn8fupb7an3mp7ba2aofie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg4mtujXqIXrcrPGt611RiKF2sXlY961s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054311091666-jktkdkmk7imn8fupb7an3mp7ba2aofie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
